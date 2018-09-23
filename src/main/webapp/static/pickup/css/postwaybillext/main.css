@@ -1,0 +1,107 @@
+.fluid {
+	margin-top: 10px;
+	padding: 15px 15px;
+}
+
+.group {
+	padding: 10px 10px;
+}
+
+.error {
+	color: red;
+}
+
+.row-fluid {
+	padding-bottom: 6px;
+}
+
+.btn-unfold {
+	float: right;
+	color: #4D93FD;
+}
+
+.body {
+	margin: 0 20px;
+	background: #E8EEF3;
+	color: #333333;
+	font-family: PingFangSC-Regular, Arial;
+}
+
+.form-fold {
+	background: #FFFFFF;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+label {
+	text-align: right;
+	padding-left: 0px;
+	padding-right: 5px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.menu-head {
+	padding-top: 3px;
+	padding-left: 10px;
+	padding-right: 30px;
+	padding-bottom: 3px;
+	border-bottom: thin solid #d8e2e9;
+	font-size: 14px;
+}
+
+.table-actions {
+	margin: 0 6px 0 6px;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.autocomplete-suggestions {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #999;
+	background: #FFF;
+	cursor: default;
+	overflow: auto;
+	-webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+	-moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+	box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+}
+
+.autocomplete-suggestion {
+	padding: 2px 5px;
+	overflow: hidden;
+}
+
+.autocomplete-no-suggestion {
+	padding: 2px 5px;
+}
+
+.autocomplete-selected {
+	background: #4d93fd;
+}
+
+.autocomplete-suggestions strong {
+	font-weight: bold;
+	color: #000;
+}
+
+.autocomplete-group {
+	padding: 2px 5px;
+}
+
+.autocomplete-group strong {
+	font-weight: bold;
+	font-size: 16px;
+	color: #000;
+	display: block;
+	border-bottom: 1px solid #000;
+}
+
+.container-fluid {
+	margin-bottom: 1px !important;
+}

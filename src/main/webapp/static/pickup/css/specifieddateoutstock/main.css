@@ -1,0 +1,19 @@
+.control-group{width:1000px;height:auto;}
+.control-dateQuery{ margin:0px 0px 5px 40px; }
+.control-add{ margin:0px 0px 5px 0px;  }
+.btn-backGauge{ margin:1px 0px 0px 100px;}
+.btn-backGaugeTwo{ margin:1px 0px 0px 17px;}
+.control-element{width:800px;margin:30px 0px 0px 40px;height:400px; }
+.control-table{margin-top:-20px;}
+.control-table th{ vertical-align:middle; text-align:center;}
+.control-table td{ vertical-align:middle; text-align:center;}
+
+.btn-left{margin-left:451px;}
+.control-checkAll{width:30px;}
+.control-operation{width:60px;}
+.control-mailNumber{width:120px;}
+.control-dueDate{width:100px;}
+.control-operation{width:80px;}
+.control-sendUnit{width:120px;}
+.control-recipients{width:100px;}
+

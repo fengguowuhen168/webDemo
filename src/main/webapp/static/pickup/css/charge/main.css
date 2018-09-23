@@ -1,0 +1,46 @@
+span#selectPaymentWayId {
+	    margin: 14px;
+	}
+	button.btn {
+	    margin: 0px 77px;
+	}
+	button.btn.btn-primary {
+	    margin: 0px 47px 0px 0
+	}
+	div#weChat {
+	    width: 360px;
+	    margin: 0px -200px;
+	}
+	div#alipay {
+	    width: 360px;
+	    margin: 0px -200px;
+	}
+	div#POSMachine {
+	    width: 400px;
+	    margin: 1px -213px;
+	}
+	button#getBackId {
+	    margin: 0px 220px;
+	    width: 90px;
+	}
+	button#confirmPayId {
+	    margin: 0px;
+	}
+	img#alipayImgId {
+	    margin: 0px 80px;
+	        width: 200px;
+	}
+	img#weChatImgId {
+	    margin: 0px 80px;
+	        width: 200px;
+	}
+	div#shapeCodeId {
+	        margin: 40PX 91px;
+	        height: 73px;
+	        width: 240px !important;
+	}
+	button.btn {
+	    margin: 0px 60px 0px 0px;
+	}
+	
+	

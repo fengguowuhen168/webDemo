@@ -1,0 +1,19 @@
+.menu-head {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.row-fluid {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.input-lg {
+    height: 46px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+.table td {
+    line-height: 20px;
+}

@@ -1,0 +1,23 @@
+.form-horizontal .control-label {
+    padding-top: 3px;
+    width: 100px;
+}
+
+.form-horizontal .controls {
+    text-align: left;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-left: 105px;
+}
+
+.form-horizontal .control-group {
+    margin-bottom: 0px;
+    border-bottom: 0px dotted rgb(221, 221, 221);
+}
+
+.form-actions {
+    padding: 3px 0px 3px;
+}
+.span12{
+   width:1280px;
+}
